@@ -48,7 +48,7 @@ A personal collection of remarkable articles related to design, code and the wor
 
 * #### [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6)<br>**Manuel Matuzovic, 2016**
 
-  I feel ashamed, but the title speaks also for me. Too much times I barely think about print styles. The article is a good collection of basic best practices to ensure that a printed page won't be totally broken.
+  I feel ashamed, but the title speaks also for me. Too many times I barely think about print styles. The article is a good collection of basic best practices ensuring that a printed page won't be totally broken.
 
   Tags: _#CSS_
 
