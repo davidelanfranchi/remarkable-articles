@@ -1,16 +1,41 @@
-# Remarkable articles list
+# Remarkable articles
 
-A personal collection of remarkable articles related to design, code and world wide web. Jump to [motivation](#motivation).
+A personal collection of remarkable articles related to design, code and the world wide web. Jump to [motivation](#motivation).
 
 ---
 
 ## Categories
 
+* [Design](#design)
 * [Development](#development)
 
 ## Articles
 
+### Design
+
+* #### [26 Steps of Product & Dashboard Design](https://medium.com/sketch-app-sources/26-steps-of-product-dashboard-design-c97af84c4146)<br>**Jan Losert, 2016**
+
+  An in-depth article about the author's product design process. I like the careful division of his design steps and the all-embracing approach of the article. A find it a good reminder of how to work as a professional.
+
+  Tags: _#workflow_
+
+* #### [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)<br>**Nathan Curtis, 2016**
+
+  A development oriented design article. I like the methodical approach of the author and how he stress the connection between design and code, illustrating how to translate into SASS the approach described.
+
+  Worth reading from the same author: [color](https://medium.com/eightshapes-llc/color-in-design-systems-a1c80f65fa3) and [buttons](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23).
+
+  Tags: _#CSS_
+
 ### Development
+
+* #### [ABEM. A more useful adaptation of BEM.](https://css-tricks.com/abem-useful-adaptation-bem/)<br>**Daniel Tonon, 2017**
+
+  The advantages of the approach suggested by the author seemed so obvious to me that I found the article inspiring. It suggests a very useful adaptation of BEM naming convention showing that instead of blindly following the rules, we could, and we should, break/adjust them.
+
+  It made me think about another not so standardized convention that I found clever: [rscss](http://rscss.io/).
+
+  Tags: _#CSS_
 
 * #### [Everything Easy is Hard Again](https://frankchimero.com/writing/everything-easy-is-hard-again/)<br>**Frank Chimero, 2017**
 
@@ -18,6 +43,14 @@ A personal collection of remarkable articles related to design, code and world w
   Finally, I found illuminating the provocative connection between HTML tables and CSS Grid to describe the circular nature of making websites:
 
   > you’ll eventually end up in the same spot: your first year of making websites.
+
+  Tags: _#Tooling_, _#Opinion_
+
+* #### [I totally forgot about print style sheets](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6)<br>**Manuel Matuzovic, 2016**
+
+  I feel ashamed, but the title speaks also for me. Too much times I barely think about print styles. The article is a good collection of basic best practices to ensure that a printed page won't be totally broken.
+
+  Tags: _#CSS_
 
 ---
 
