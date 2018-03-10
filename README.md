@@ -33,7 +33,7 @@ A personal collection of remarkable articles related to design, code and the wor
 
   The advantages of the approach suggested by the author seemed so obvious to me that I found the article inspiring. It suggests a very useful adaptation of BEM naming convention showing that instead of blindly following the rules, we could, and we should, break/adjust them.
 
-  It made me think about another not so standardized convention that I found clever: [rscss](http://rscss.io/).
+  It made me think about another not so famous convention that I found clever: [rscss](http://rscss.io/).
 
   Tags: _#CSS_
 
